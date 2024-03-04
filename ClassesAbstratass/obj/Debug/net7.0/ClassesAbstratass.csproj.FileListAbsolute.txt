@@ -1,0 +1,14 @@
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\obj\Debug\net7.0\ClassesAbstratass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\obj\Debug\net7.0\ClassesAbstratass.AssemblyInfoInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\obj\Debug\net7.0\ClassesAbstratass.AssemblyInfo.cs
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\obj\Debug\net7.0\ClassesAbstratass.csproj.CoreCompileInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\bin\Debug\net7.0\ClassesAbstratass.exe
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\bin\Debug\net7.0\ClassesAbstratass.deps.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\bin\Debug\net7.0\ClassesAbstratass.runtimeconfig.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\bin\Debug\net7.0\ClassesAbstratass.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\bin\Debug\net7.0\ClassesAbstratass.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\obj\Debug\net7.0\ClassesAbstratass.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\obj\Debug\net7.0\refint\ClassesAbstratass.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\obj\Debug\net7.0\ClassesAbstratass.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\obj\Debug\net7.0\ClassesAbstratass.genruntimeconfig.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\ClassesAbstratass\obj\Debug\net7.0\ref\ClassesAbstratass.dll
